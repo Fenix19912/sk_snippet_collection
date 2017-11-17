@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-11-17T20:47:07Z" product-name="sk_snippet_collection">
+		<header/>
+		<body>
+			<trans-unit id="tx_sk_snippet_collection_domain_model_snippetlist">
+				<source>Snippet Liste</source>
+			</trans-unit>
+			<trans-unit id="tx_sk_snippet_collection_domain_model_snippetlist.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_sk_snippet_collection_domain_model_snippetedit">
+				<source>Snippet Bearbeiten</source>
+			</trans-unit>
+			<trans-unit id="tx_sk_snippet_collection_domain_model_snippetedit.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_sk_snippet_collection_domain_model_snippetsearch">
+				<source>Snippet Suchen</source>
+			</trans-unit>
+			<trans-unit id="tx_sk_snippet_collection_domain_model_snippetsearch.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="action.description">
+				<source>action</source>
+			</trans-unit>
+			<trans-unit id="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="code.description">
+				<source>code</source>
+			</trans-unit>
+			<trans-unit id="beschreibung.description">
+				<source>beschreibung</source>
+			</trans-unit>
+			<trans-unit id="kommentar.description">
+				<source>kommentar</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
